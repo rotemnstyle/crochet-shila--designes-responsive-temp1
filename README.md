@@ -4,5 +4,3 @@ A split responsive landing page with my two professions:
 2) Web Development
 
 link: https://codepen.io/rotem-narder/pen/EdZxow 
-
-Copyright © Rotem Narder. All Rights Reserved
